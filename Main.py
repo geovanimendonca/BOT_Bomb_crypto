@@ -8,7 +8,7 @@ def main_auto_bomb():
     error_tratment = 0
 
     while (True):
-        if step == 0: # Conectar a carteira - Erro implementado -
+        if step == 0: # Conectar a carteira - Erro implementado
             time.sleep(0.1)
             verify = verify_screen('conect_wallet')
 
