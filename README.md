@@ -9,4 +9,4 @@ Features:
 -> Evita bugs de mapa voltando e entrando constantemente (Isso não perde produção)
 -> Reinicia a conexão a cada tempo especificado
 -> Verifica constantemente casos de erro e se recupera automaticamente
-
+-> Utiliza reconhecimento de imagens para localização e decisão
