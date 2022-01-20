@@ -1,4 +1,12 @@
-# learn-git
-Aprendendo mais sobre o git; 
+Automação com python
 
-Upando projeto de automação do bomb crypto
+BOT para Bomb Crypto
+
+Features:
+-> Inicia o game e conecta sua carteira
+-> Coloca todos os heros para trabalhar
+-> Evita desconexões
+-> Evita bugs de mapa voltando e entrando constantemente (Isso não perde produção)
+-> Reinicia a conexão a cada tempo especificado
+-> Verifica constantemente casos de erro e se recupera automaticamente
+
