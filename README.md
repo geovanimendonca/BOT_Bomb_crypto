@@ -1,2 +1,2 @@
 # learn-git
-Aprendendo mais sobre o git 
+BOT para automatizar o jogo NFT Bomb Crypto
